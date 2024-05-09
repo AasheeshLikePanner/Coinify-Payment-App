@@ -1,4 +1,4 @@
-# <a href='[coinifypayment.vercel.app](https://coinifypayment.vercel.app/)'>Coinify Online Payment App</a>
+# <a href='https://coinifypayment.vercel.app/'>Coinify Online Payment App</a>
 
 <h1>Introduction</h1>
 <p>
