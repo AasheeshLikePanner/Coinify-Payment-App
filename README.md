@@ -64,5 +64,4 @@ https://github.com/AasheeshLikePanner/Coinify-Payment-APP/assets/126905285/e16db
 <h2>Feedback</h2>
 <p>We value your feedback! If you have any suggestions, questions, or encounter any issues while using Coinify, please don't hesitate to reach out to us. Your input helps us improve the application and enhance the overall user experience.</p>
 
-<h2>Legal</h2>
-<p>Please note that Coinify is intended for entertainment purposes only.</p>
+
